@@ -1,0 +1,7 @@
+# Anotações para consultar ao longo do curso
+
+Comandos Git
+
+clone = Clonar o repositório online para a máquina local
+commit = Atualizar o repositório online por meio da máquina local
+commit -m = Mensagem a qual explica o que foi adicionado ao código 
